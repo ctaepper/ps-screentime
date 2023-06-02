@@ -1,0 +1,14 @@
+{
+  "name": "@ps-screentime/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "angular": "1.8.3"
+  },
+  "devDependencies": {
+    "@nx/workspace": "16.3.1",
+    "nx": "16.3.1"
+  }
+}
