@@ -1,0 +1,9 @@
+{
+  "name": "screentime",
+  "devDependencies": {
+    "@capacitor/cli": "*",
+    "@capacitor/ios": "../../node_modules/@capacitor/ios",
+    "@capacitor/android": "../../node_modules/@capacitor/android",
+    "@capacitor-community/keep-awake": "*"
+  }
+}

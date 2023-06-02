@@ -1,0 +1,7 @@
+{
+  "name": "screentime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
